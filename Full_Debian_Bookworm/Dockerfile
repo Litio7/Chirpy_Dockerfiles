@@ -52,7 +52,7 @@ WORKDIR /root/jekyll-theme-chirpy
 
 RUN git clone https://github.com/cotes2020/jekyll-theme-chirpy.git /root/jekyll-theme-chirpy && \
     git config --global user.email "build@example.com" && \
-    git config --global user.name "Litio7"/jekyll-theme-chirpy.git /root/jekyll-theme-chirpy
+    git config --global user.name "Litio7"
 
 #--- Gems
 

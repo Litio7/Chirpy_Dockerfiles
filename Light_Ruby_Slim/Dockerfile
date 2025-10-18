@@ -1,3 +1,5 @@
+#--- Ruby Slim
+
 FROM ruby:3.1-slim
 
 LABEL maintainer="github.com/litio7" \
